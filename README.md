@@ -1,3 +1,0 @@
-# gongju-HappinessParadiseSoft.com-web
-
-工具部海外官网需求，这一套代码对应着两个域名，分别是HappinessParadiseSoft.com和mazinggrandsoft.com
